@@ -1,0 +1,337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|c:\\users\\ensar\\desktop\\toptan hesap\\toptan hesap\\goruntulefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|solutionrelative:goruntulefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\goruntulefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|solutionrelative:goruntulefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|c:\\users\\ensar\\desktop\\toptan hesap\\toptan hesap\\tedarik\u00E7i\\eurunfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|solutionrelative:tedarik\u00E7i\\eurunfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\tedarik\u00E7i\\eurunfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|solutionrelative:tedarik\u00E7i\\eurunfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|c:\\users\\ensar\\desktop\\toptan hesap\\toptan hesap\\datagirdaraci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|solutionrelative:datagirdaraci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\m\u00FC\u015Fteri\\emusterifrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|solutionrelative:m\u00FC\u015Fteri\\emusterifrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|c:\\users\\ensar\\desktop\\toptan hesap\\toptan hesap\\tedarik\u00E7i\\etedarikcifrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|solutionrelative:tedarik\u00E7i\\etedarikcifrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\tedarik\u00E7i\\etedarikcifrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|solutionrelative:tedarik\u00E7i\\etedarikcifrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|c:\\users\\ensar\\desktop\\toptan hesap\\toptan hesap\\tedarik\u00E7i\\estokgirisfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|solutionrelative:tedarik\u00E7i\\estokgirisfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\tedarik\u00E7i\\estokgirisfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|solutionrelative:tedarik\u00E7i\\estokgirisfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|c:\\users\\ensar\\desktop\\toptan hesap\\toptan hesap\\m\u00FC\u015Fteri\\esatisfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|solutionrelative:m\u00FC\u015Fteri\\esatisfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|c:\\users\\ensar\\desktop\\toptan hesap\\toptan hesap\\m\u00FC\u015Fteri\\esatisfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|solutionrelative:m\u00FC\u015Fteri\\esatisfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|c:\\users\\ensar\\desktop\\toptan hesap\\toptan hesap\\tedarik\u00E7i\\eodemefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|solutionrelative:tedarik\u00E7i\\eodemefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|c:\\users\\ensar\\desktop\\toptan hesap\\toptan hesap\\tedarik\u00E7i\\eodemefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|solutionrelative:tedarik\u00E7i\\eodemefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|c:\\users\\ensar\\desktop\\toptan hesap\\toptan hesap\\m\u00FC\u015Fteri\\emusterifrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|solutionrelative:m\u00FC\u015Fteri\\emusterifrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|c:\\users\\ensar\\desktop\\toptan hesap\\toptan hesap\\m\u00FC\u015Fteri\\etahsilatfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|solutionrelative:m\u00FC\u015Fteri\\etahsilatfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|c:\\users\\ensar\\desktop\\toptan hesap\\toptan hesap\\m\u00FC\u015Fteri\\etahsilatfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|solutionrelative:m\u00FC\u015Fteri\\etahsilatfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\anasayfafrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|solutionrelative:anasayfafrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|c:\\users\\ensar\\desktop\\toptan hesap\\toptan hesap\\tedarik\u00E7i\\eurunfrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E9F97F-36A2-4719-963A-A494ADB24C19}|Toptan Hesap.csproj|solutionrelative:tedarik\u00E7i\\eurunfrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "datagirdAraci.cs",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\datagirdAraci.cs",
+              "RelativeDocumentMoniker": "datagirdAraci.cs",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\datagirdAraci.cs",
+              "RelativeToolTip": "datagirdAraci.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:01:32.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ETedarikciFrm.cs",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\Tedarik\u00E7i\\ETedarikciFrm.cs",
+              "RelativeDocumentMoniker": "Tedarik\u00E7i\\ETedarikciFrm.cs",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\Tedarik\u00E7i\\ETedarikciFrm.cs",
+              "RelativeToolTip": "Tedarik\u00E7i\\ETedarikciFrm.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAawEEAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:24:10.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EUrunFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\Tedarik\u00E7i\\EUrunFrm.cs",
+              "RelativeDocumentMoniker": "Tedarik\u00E7i\\EUrunFrm.cs",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\Tedarik\u00E7i\\EUrunFrm.cs [Design]",
+              "RelativeToolTip": "Tedarik\u00E7i\\EUrunFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:23:41.729Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EUrunFrm.cs",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\Tedarik\u00E7i\\EUrunFrm.cs",
+              "RelativeDocumentMoniker": "Tedarik\u00E7i\\EUrunFrm.cs",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\Tedarik\u00E7i\\EUrunFrm.cs",
+              "RelativeToolTip": "Tedarik\u00E7i\\EUrunFrm.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAApwNwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:24:19.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GoruntuleFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\GoruntuleFrm.cs",
+              "RelativeDocumentMoniker": "GoruntuleFrm.cs",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\GoruntuleFrm.cs [Design]",
+              "RelativeToolTip": "GoruntuleFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:42:38.423Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EMusteriFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\M\u00FC\u015Fteri\\EMusteriFrm.cs",
+              "RelativeDocumentMoniker": "M\u00FC\u015Fteri\\EMusteriFrm.cs",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\M\u00FC\u015Fteri\\EMusteriFrm.cs [Design]",
+              "RelativeToolTip": "M\u00FC\u015Fteri\\EMusteriFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:34:02.428Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GoruntuleFrm.cs",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\GoruntuleFrm.cs",
+              "RelativeDocumentMoniker": "GoruntuleFrm.cs",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\GoruntuleFrm.cs",
+              "RelativeToolTip": "GoruntuleFrm.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAhwHAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:35:49.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ETedarikciFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\Tedarik\u00E7i\\ETedarikciFrm.cs",
+              "RelativeDocumentMoniker": "Tedarik\u00E7i\\ETedarikciFrm.cs",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\Tedarik\u00E7i\\ETedarikciFrm.cs [Design]",
+              "RelativeToolTip": "Tedarik\u00E7i\\ETedarikciFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:23:40.89Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EStokGirisFrm.cs",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\Tedarik\u00E7i\\EStokGirisFrm.cs",
+              "RelativeDocumentMoniker": "Tedarik\u00E7i\\EStokGirisFrm.cs",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\Tedarik\u00E7i\\EStokGirisFrm.cs",
+              "RelativeToolTip": "Tedarik\u00E7i\\EStokGirisFrm.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAqwFQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:16:09.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EStokGirisFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\Tedarik\u00E7i\\EStokGirisFrm.cs",
+              "RelativeDocumentMoniker": "Tedarik\u00E7i\\EStokGirisFrm.cs",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\Tedarik\u00E7i\\EStokGirisFrm.cs [Design]",
+              "RelativeToolTip": "Tedarik\u00E7i\\EStokGirisFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:16:06.661Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ESatisFrm.cs",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\M\u00FC\u015Fteri\\ESatisFrm.cs",
+              "RelativeDocumentMoniker": "M\u00FC\u015Fteri\\ESatisFrm.cs",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\M\u00FC\u015Fteri\\ESatisFrm.cs",
+              "RelativeToolTip": "M\u00FC\u015Fteri\\ESatisFrm.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAmwFcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:21:50.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ESatisFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\M\u00FC\u015Fteri\\ESatisFrm.cs",
+              "RelativeDocumentMoniker": "M\u00FC\u015Fteri\\ESatisFrm.cs",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\M\u00FC\u015Fteri\\ESatisFrm.cs [Design]",
+              "RelativeToolTip": "M\u00FC\u015Fteri\\ESatisFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:21:48.996Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EOdemeFrm.cs",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\Tedarik\u00E7i\\EOdemeFrm.cs",
+              "RelativeDocumentMoniker": "Tedarik\u00E7i\\EOdemeFrm.cs",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\Tedarik\u00E7i\\EOdemeFrm.cs",
+              "RelativeToolTip": "Tedarik\u00E7i\\EOdemeFrm.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAqwEkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:28:30.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EMusteriFrm.cs",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\M\u00FC\u015Fteri\\EMusteriFrm.cs",
+              "RelativeDocumentMoniker": "M\u00FC\u015Fteri\\EMusteriFrm.cs",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\M\u00FC\u015Fteri\\EMusteriFrm.cs",
+              "RelativeToolTip": "M\u00FC\u015Fteri\\EMusteriFrm.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAqwEoAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:34:03.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EOdemeFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\Tedarik\u00E7i\\EOdemeFrm.cs",
+              "RelativeDocumentMoniker": "Tedarik\u00E7i\\EOdemeFrm.cs",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\Tedarik\u00E7i\\EOdemeFrm.cs [Design]",
+              "RelativeToolTip": "Tedarik\u00E7i\\EOdemeFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:28:29.321Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ETahsilatFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\M\u00FC\u015Fteri\\ETahsilatFrm.cs",
+              "RelativeDocumentMoniker": "M\u00FC\u015Fteri\\ETahsilatFrm.cs",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\M\u00FC\u015Fteri\\ETahsilatFrm.cs [Design]",
+              "RelativeToolTip": "M\u00FC\u015Fteri\\ETahsilatFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:25:22.204Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ETahsilatFrm.cs",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\M\u00FC\u015Fteri\\ETahsilatFrm.cs",
+              "RelativeDocumentMoniker": "M\u00FC\u015Fteri\\ETahsilatFrm.cs",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\M\u00FC\u015Fteri\\ETahsilatFrm.cs",
+              "RelativeToolTip": "M\u00FC\u015Fteri\\ETahsilatFrm.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAEEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:25:23.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EUrunFrm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\Tedarik\u00E7i\\EUrunFrm.Designer.cs",
+              "RelativeDocumentMoniker": "Tedarik\u00E7i\\EUrunFrm.Designer.cs",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\Tedarik\u00E7i\\EUrunFrm.Designer.cs",
+              "RelativeToolTip": "Tedarik\u00E7i\\EUrunFrm.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:33:49.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AnaSayfaFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\AnaSayfaFrm.cs",
+              "RelativeDocumentMoniker": "AnaSayfaFrm.cs",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\AnaSayfaFrm.cs [Design]",
+              "RelativeToolTip": "AnaSayfaFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:31:54.327Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

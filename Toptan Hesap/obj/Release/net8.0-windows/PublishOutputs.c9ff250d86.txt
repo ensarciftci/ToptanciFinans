@@ -1,0 +1,14 @@
+C:\Program Files\Toptan Hesap.exe
+C:\Program Files\Toptan Hesap.dll
+C:\Program Files\Toptan Hesap.deps.json
+C:\Program Files\Toptan Hesap.runtimeconfig.json
+C:\Program Files\Toptan Hesap.pdb
+C:\Program Files\System.Configuration.ConfigurationManager.dll
+C:\Program Files\System.Data.OleDb.dll
+C:\Program Files\System.Diagnostics.EventLog.dll
+C:\Program Files\System.Diagnostics.PerformanceCounter.dll
+C:\Program Files\System.Security.Cryptography.ProtectedData.dll
+C:\Program Files\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Program Files\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Program Files\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Program Files\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
