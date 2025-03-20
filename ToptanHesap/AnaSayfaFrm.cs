@@ -72,10 +72,15 @@ namespace Toptan_Hesap
 
         private void button4_Click(object sender, EventArgs e)
         {
-            GoruntuleFrm frm = new GoruntuleFrm();  
+            GoruntuleFrm frm = new GoruntuleFrm();
             this.Hide();
             frm.ShowDialog();
             this.Close();
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

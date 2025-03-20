@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0kN9zwiOjDc=",
+  "dgSpecHash": "XM/ceyw89c4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\Toptan Hesap.csproj",
+  "projectFilePath": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\ToptanHesap\\Toptan Hesap.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ensar\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.1\\system.configuration.configurationmanager.9.0.1.nupkg.sha512",
     "C:\\Users\\ensar\\.nuget\\packages\\system.data.oledb\\9.0.1\\system.data.oledb.9.0.1.nupkg.sha512",

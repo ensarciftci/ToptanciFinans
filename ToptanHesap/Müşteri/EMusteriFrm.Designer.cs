@@ -77,12 +77,12 @@
             contextMenuStrip1.ImageScalingSize = new Size(20, 20);
             contextMenuStrip1.Items.AddRange(new ToolStripItem[] { sİLToolStripMenuItem });
             contextMenuStrip1.Name = "contextMenuStrip1";
-            contextMenuStrip1.Size = new Size(98, 28);
+            contextMenuStrip1.Size = new Size(211, 56);
             // 
             // sİLToolStripMenuItem
             // 
             sİLToolStripMenuItem.Name = "sİLToolStripMenuItem";
-            sİLToolStripMenuItem.Size = new Size(97, 24);
+            sİLToolStripMenuItem.Size = new Size(210, 24);
             sİLToolStripMenuItem.Text = "SİL";
             sİLToolStripMenuItem.Click += sİLToolStripMenuItem_Click;
             // 

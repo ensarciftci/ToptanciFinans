@@ -34,3 +34,39 @@ C:\Users\ensar\Desktop\TOPTAN HESAP\Toptan Hesap\obj\Debug\net8.0-windows\Toptan
 C:\Users\ensar\Desktop\TOPTAN HESAP\Toptan Hesap\obj\Debug\net8.0-windows\Toptan_Hesap.ETedarikciFrm.resources
 C:\Users\ensar\Desktop\TOPTAN HESAP\Toptan Hesap\obj\Debug\net8.0-windows\Toptan_Hesap.Properties.Resources.resources
 C:\Users\ensar\Desktop\TOPTAN HESAP\Toptan Hesap\obj\Debug\net8.0-windows\Toptan_Hesap.GoruntuleFrm.resources
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\bin\Debug\net8.0-windows\Toptan Hesap.exe
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\bin\Debug\net8.0-windows\Toptan Hesap.deps.json
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\bin\Debug\net8.0-windows\Toptan Hesap.runtimeconfig.json
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\bin\Debug\net8.0-windows\Toptan Hesap.dll
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\bin\Debug\net8.0-windows\Toptan Hesap.pdb
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\obj\Debug\net8.0-windows\Toptan Hesap.csproj.AssemblyReference.cache
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\obj\Debug\net8.0-windows\Toptan_Hesap.AnaSayfaFrm.resources
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\obj\Debug\net8.0-windows\Toptan_Hesap.GoruntuleFrm.resources
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\obj\Debug\net8.0-windows\Toptan_Hesap.EMusteriFrm.resources
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\obj\Debug\net8.0-windows\Toptan_Hesap.ESatisFrm.resources
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\obj\Debug\net8.0-windows\Toptan_Hesap.ETahsilatFrm.resources
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\obj\Debug\net8.0-windows\Toptan_Hesap.Properties.Resources.resources
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\obj\Debug\net8.0-windows\Toptan_Hesap.EOdemeFrm.resources
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\obj\Debug\net8.0-windows\Toptan_Hesap.Tedarikçi.EStokGirisFrm.resources
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\obj\Debug\net8.0-windows\Toptan_Hesap.ETedarikciFrm.resources
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\obj\Debug\net8.0-windows\Toptan_Hesap.EUrunFrm.resources
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\obj\Debug\net8.0-windows\Toptan Hesap.csproj.GenerateResource.cache
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\obj\Debug\net8.0-windows\Toptan Hesap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\obj\Debug\net8.0-windows\Toptan Hesap.AssemblyInfoInputs.cache
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\obj\Debug\net8.0-windows\Toptan Hesap.AssemblyInfo.cs
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\obj\Debug\net8.0-windows\Toptan Hesap.csproj.CoreCompileInputs.cache
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\obj\Debug\net8.0-windows\Toptan H.B3B2AE12.Up2Date
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\obj\Debug\net8.0-windows\Toptan Hesap.dll
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\obj\Debug\net8.0-windows\refint\Toptan Hesap.dll
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\obj\Debug\net8.0-windows\Toptan Hesap.pdb
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\obj\Debug\net8.0-windows\Toptan Hesap.genruntimeconfig.cache
+C:\Users\ensar\Desktop\TOPTAN HESAP\ToptanHesap\obj\Debug\net8.0-windows\ref\Toptan Hesap.dll

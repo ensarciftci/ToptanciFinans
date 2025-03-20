@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\Toptan Hesap.csproj": {}
+    "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\ToptanHesap\\Toptan Hesap.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\Toptan Hesap.csproj": {
+    "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\ToptanHesap\\Toptan Hesap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\Toptan Hesap.csproj",
+        "projectUniqueName": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\ToptanHesap\\Toptan Hesap.csproj",
         "projectName": "Toptan Hesap",
-        "projectPath": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\Toptan Hesap.csproj",
+        "projectPath": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\ToptanHesap\\Toptan Hesap.csproj",
         "packagesPath": "C:\\Users\\ensar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\Toptan Hesap\\obj\\",
+        "outputPath": "C:\\Users\\ensar\\Desktop\\TOPTAN HESAP\\ToptanHesap\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -25,6 +25,7 @@
           "net8.0-windows"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Fast Reports\\.NET\\2024.2.20\\FastReport .NET Trial\\Nugets": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://www.nuget.org/api/v2/": {}
         },

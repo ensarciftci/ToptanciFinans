@@ -147,6 +147,8 @@ namespace Toptan_Hesap
                 MessageBox.Show("İşlem başarılı ", " ", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 con.Close();
                 griddoldur("Urunler");
+                cmbdoldur("Urunler");
+                comboBox1.SelectedIndex = -1;
                 dataGridView1.ClearSelection();
 
             }
@@ -187,8 +189,14 @@ namespace Toptan_Hesap
                 con.Open();
                 cmd = new OleDbCommand("update Urunler set UrunAdi='" + UrunAdiTb.Text + "',AlisFiyati='"+Convert.ToDecimal(textBox1.Text)+"',Fiyat='" +Convert.ToDecimal(UrunFiyatiTb.Text) + "' where UrunId = " + kimlik, con);
                 cmd.ExecuteNonQuery();
+                cmd =new OleDbCommand("update StokGiris set UrunAdi = '"+UrunAdiTb.Text+"' where UrunId = "+kimlik, con);
+                cmd.ExecuteNonQuery();
+                cmd = new OleDbCommand("update Satislar set UrunAdi = '" + UrunAdiTb.Text + "' where UrunId = " + kimlik, con);
+                cmd.ExecuteNonQuery();
                 con.Close();
                 griddoldur("Urunler");
+                cmbdoldur("Urunler");
+                comboBox1.SelectedIndex = -1;
                 dataGridView1.ClearSelection();
 
             }
@@ -228,11 +236,17 @@ namespace Toptan_Hesap
 
         private void sİLToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            con.Open();
-            cmd = new OleDbCommand("delete from Urunler where UrunId=" + kimlik, con);
-            cmd.ExecuteNonQuery();
-            con.Close();
-            griddoldur("Urunler");
+            DialogResult sor = MessageBox.Show("Dikkat '" + dataGridView1.SelectedRows[0].Cells[1].Value.ToString() + "' ürününe ait tüm verileri silinecektir", "Silme İşlemi", MessageBoxButtons.YesNo, MessageBoxIcon.Warning, MessageBoxDefaultButton.Button2);
+            if (sor == DialogResult.Yes)
+            {
+                con.Open();
+                cmd = new OleDbCommand("delete from Urunler where UrunId=" + kimlik, con);
+                cmd.ExecuteNonQuery();
+                con.Close();
+                griddoldur("Urunler");
+                cmbdoldur("Urunler");
+                comboBox1.SelectedIndex = -1;
+            }
             dataGridView1.ClearSelection();
         }
 

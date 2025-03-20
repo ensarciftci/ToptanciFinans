@@ -64,7 +64,7 @@ namespace Toptan_Hesap
                 dataGridView1.Columns["TedarikciAdi"].HeaderText = "Tedarikçi Adı";
                 dataGridView1.Columns["TedarikciId"].HeaderText = "T.ID";
                 dataGridView1.Columns["ToplamBorc"].HeaderText = "Toplam Borç";
-               
+
                 foreach (DataGridViewColumn alan in dataGridView1.Columns)
                 {
                     alan.AutoSizeMode = DataGridViewAutoSizeColumnMode.DisplayedCells;
@@ -79,8 +79,8 @@ namespace Toptan_Hesap
             }
             finally
             {
-               
-              
+
+
                 if (con.State == ConnectionState.Open)
                 { con.Close(); }
             }
@@ -95,9 +95,12 @@ namespace Toptan_Hesap
         }
         private void ETedarikciFrm_Load(object sender, EventArgs e)
         {
-          
+           
             cmbdoldur("Tedarikciler");
             griddoldur("Tedarikciler");
+            comboBox1.SelectedIndex = -1;
+            comboBox1.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            comboBox1.AutoCompleteSource = AutoCompleteSource.ListItems;
             this.MaximizeBox = false;
             EkleBtn.MouseEnter += BtnRenk.btnMouseEnter;
             GuncelleBtn.MouseEnter += BtnRenk.btnMouseEnter;
@@ -109,7 +112,7 @@ namespace Toptan_Hesap
             SifirlaBtn.MouseLeave += (BtnRenk.btnMouseLeave);
             AnaSayfaBtn.MouseLeave += BtnRenk.btnMouseLeave;
             GoruntuleBtn.MouseLeave += BtnRenk.btnMouseLeave;
-          
+
             dataGridView1.ClearSelection();
             foreach (Control ctrl in this.Controls)
             {
@@ -140,6 +143,8 @@ namespace Toptan_Hesap
                 MessageBox.Show("İşlem başarılı ", " ", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 con.Close();
                 griddoldur("Tedarikciler");
+                cmbdoldur("Tedarikciler");
+                comboBox1.SelectedIndex = -1;
                 dataGridView1.ClearSelection();
             }
             catch (Exception ex)
@@ -150,6 +155,7 @@ namespace Toptan_Hesap
             {
                 if (con.State == ConnectionState.Open)
                 { con.Close(); }
+
             }
         }
         int kimlik;
@@ -165,8 +171,14 @@ namespace Toptan_Hesap
                 con.Open();
                 cmd = new OleDbCommand("update Tedarikciler set TedarikciAdi='" + AdTb.Text + "',Telefon='" + TelTb.Text + "',Adres='" + AdresTb.Text + "' where TedarikciId = " + kimlik, con);
                 cmd.ExecuteNonQuery();
+                cmd=new OleDbCommand("update Odemeler set TedarikciAdi='"+AdTb.Text+"' where TedarikciId = "+kimlik,con);
+                cmd.ExecuteNonQuery();
+                cmd = new OleDbCommand("update StokGiris set TedarikciAdi='" + AdTb.Text + "' where TedarikciId = " + kimlik, con);
+                cmd.ExecuteNonQuery();
                 con.Close();
                 griddoldur("Tedarikciler");
+                cmbdoldur("Tedarikciler");
+                comboBox1.SelectedIndex = -1;
                 dataGridView1.ClearSelection();
 
             }
@@ -184,6 +196,9 @@ namespace Toptan_Hesap
 
         private void SifirlaBtn_Click(object sender, EventArgs e)
         {
+            griddoldur("Tedarikciler");
+            cmbdoldur("Tedarikciler");
+            comboBox1.SelectedIndex = -1;
             tbreset();
             dataGridView1.ClearSelection();
         }
@@ -212,12 +227,23 @@ namespace Toptan_Hesap
 
         private void sİLToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            con.Open();
-            cmd = new OleDbCommand("delete from Tedarikciler where TedarikciId=" + kimlik, con);
-            cmd.ExecuteNonQuery();
-            con.Close();
-            griddoldur("Tedarikciler");
-            dataGridView1.ClearSelection();
+            DialogResult sor = MessageBox.Show("Dikkat '" + dataGridView1.SelectedRows[0].Cells[1].Value.ToString() + "' firmasına ait tüm verileri silinecektir", "Silme İşlemi", MessageBoxButtons.YesNo, MessageBoxIcon.Warning, MessageBoxDefaultButton.Button2);
+            if (sor == DialogResult.Yes)
+            {
+                con.Open();
+                cmd = new OleDbCommand("delete from Tedarikciler where TedarikciId=" + kimlik, con);
+                cmd.ExecuteNonQuery();
+                cmd =new OleDbCommand("delete from StokGiris  where TedarikciId = "+kimlik,con);
+                cmd.ExecuteNonQuery();
+                cmd=new OleDbCommand("delete from Odemeler where TedarikciId = "+kimlik,con);
+                con.Close();
+                griddoldur("Tedarikciler");
+                cmbdoldur("Tedarikciler");
+                comboBox1.SelectedIndex = -1;
+            }
+                
+                dataGridView1.ClearSelection();
+            
         }
 
 
@@ -255,6 +281,11 @@ namespace Toptan_Hesap
                     dt.DefaultView.RowFilter = "";
                 }
             }
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -114,6 +114,7 @@ namespace Toptan_Hesap
             GoruntuleBtn.MouseLeave += BtnRenk.btnMouseLeave;
             cmbdoldur("Musteriler");
             griddoldur("Musteriler");
+            comboBox1.SelectedIndex = -1;
             dataGridView1.ClearSelection();
             foreach (Control ctrl in this.Controls)
             {
@@ -144,6 +145,8 @@ namespace Toptan_Hesap
                 MessageBox.Show("İşlem başarılı ", " ", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 con.Close();
                 griddoldur("Musteriler");
+                cmbdoldur("Musteriler");
+                comboBox1.SelectedIndex = -1;
                 dataGridView1.ClearSelection();
             }
             catch (Exception ex)
@@ -154,6 +157,7 @@ namespace Toptan_Hesap
             {
                 if (con.State == ConnectionState.Open)
                 { con.Close(); }
+   
             }
         }
 
@@ -161,6 +165,7 @@ namespace Toptan_Hesap
         {
             tbreset();
             griddoldur("Musteriler");
+            cmbdoldur("Musteriler");
             dataGridView1.ClearSelection();
             comboBox1.SelectedIndex = -1;
 
@@ -203,8 +208,14 @@ namespace Toptan_Hesap
                 con.Open();
                 cmd = new OleDbCommand("update Musteriler set Ad='" + AdTb.Text + "',Telefon='" + TelTb.Text + "',Adres='" + AdresTb.Text + "' where MusteriId = " + kimlik, con);
                 cmd.ExecuteNonQuery();
+                cmd = new OleDbCommand("update Satislar set MusteriAdi='"+AdTb.Text+"' where MusteriId= "+kimlik, con);
+                cmd.ExecuteNonQuery();
+                cmd = new OleDbCommand("update Tahsilatlar set MusteriAdi='" + AdTb.Text + "' where MusteriId = "+kimlik,con);
+                cmd.ExecuteNonQuery();
                 con.Close();
+                cmbdoldur("Musteriler");
                 griddoldur("Musteriler");
+                comboBox1.SelectedIndex = -1;
                 dataGridView1.ClearSelection();
 
             }
@@ -217,16 +228,28 @@ namespace Toptan_Hesap
             {
                 if (con.State == ConnectionState.Open)
                 { con.Close(); }
+              
             }
         }
 
         private void sİLToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            con.Open();
-            cmd = new OleDbCommand("delete from Musteriler where MusteriId=" + kimlik, con);
-            cmd.ExecuteNonQuery();
-            con.Close();
-            griddoldur("Musteriler");
+        {  
+            DialogResult sor =MessageBox.Show("Dikkat '"+dataGridView1.SelectedRows[0].Cells[1].Value.ToString() +"' kişisinin tüm verileri silinecektir","Silme İşlemi",MessageBoxButtons.YesNo,MessageBoxIcon.Warning,MessageBoxDefaultButton.Button2);
+            if (sor == DialogResult.Yes)
+            {
+                con.Open();
+                cmd = new OleDbCommand("delete from Musteriler where MusteriId=" + kimlik, con);
+                cmd.ExecuteNonQuery();
+                cmd=new OleDbCommand("delete from Satislar where MusteriId = "+kimlik,con);
+                cmd.ExecuteNonQuery();
+                cmd = new OleDbCommand("delete from Tahsilatlar where MusteriId = " + kimlik, con);
+                cmd.ExecuteNonQuery();
+                con.Close();
+                griddoldur("Musteriler");
+                cmbdoldur("Musteriler");
+                comboBox1.SelectedIndex = -1;
+            } 
+            
             dataGridView1.ClearSelection();
 
         }
@@ -261,6 +284,7 @@ namespace Toptan_Hesap
 
         private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
         {
+            dataGridView1.ClearSelection();
             if (dataGridView1.DataSource != null && dataGridView1.DataSource is DataTable)
             {
                 DataTable dt = dataGridView1.DataSource as DataTable;
@@ -274,6 +298,7 @@ namespace Toptan_Hesap
                     dt.DefaultView.RowFilter = ""; // Filtreyi kaldır
                 }
             }
+            dataGridView1.ClearSelection();
         }
     }
 }
